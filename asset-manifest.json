@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react-draft-wysiwyg-demo/static/css/main.db7d732f.chunk.css",
+    "main.js": "/react-draft-wysiwyg-demo/static/js/main.f581e49c.chunk.js",
+    "main.js.map": "/react-draft-wysiwyg-demo/static/js/main.f581e49c.chunk.js.map",
+    "runtime-main.js": "/react-draft-wysiwyg-demo/static/js/runtime-main.3efae577.js",
+    "runtime-main.js.map": "/react-draft-wysiwyg-demo/static/js/runtime-main.3efae577.js.map",
+    "static/css/2.979034dc.chunk.css": "/react-draft-wysiwyg-demo/static/css/2.979034dc.chunk.css",
+    "static/js/2.030b398f.chunk.js": "/react-draft-wysiwyg-demo/static/js/2.030b398f.chunk.js",
+    "static/js/2.030b398f.chunk.js.map": "/react-draft-wysiwyg-demo/static/js/2.030b398f.chunk.js.map",
+    "static/js/3.3b2dfc65.chunk.js": "/react-draft-wysiwyg-demo/static/js/3.3b2dfc65.chunk.js",
+    "static/js/3.3b2dfc65.chunk.js.map": "/react-draft-wysiwyg-demo/static/js/3.3b2dfc65.chunk.js.map",
+    "index.html": "/react-draft-wysiwyg-demo/index.html",
+    "static/css/2.979034dc.chunk.css.map": "/react-draft-wysiwyg-demo/static/css/2.979034dc.chunk.css.map",
+    "static/css/main.db7d732f.chunk.css.map": "/react-draft-wysiwyg-demo/static/css/main.db7d732f.chunk.css.map",
+    "static/js/2.030b398f.chunk.js.LICENSE.txt": "/react-draft-wysiwyg-demo/static/js/2.030b398f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3efae577.js",
+    "static/css/2.979034dc.chunk.css",
+    "static/js/2.030b398f.chunk.js",
+    "static/css/main.db7d732f.chunk.css",
+    "static/js/main.f581e49c.chunk.js"
+  ]
+}
